@@ -1,0 +1,15 @@
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\bin\Debug\net9.0\BankAPI.exe
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\bin\Debug\net9.0\BankAPI.deps.json
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\bin\Debug\net9.0\BankAPI.runtimeconfig.json
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\bin\Debug\net9.0\BankAPI.dll
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\bin\Debug\net9.0\BankAPI.pdb
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.AssemblyInfoInputs.cache
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.AssemblyInfo.cs
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.csproj.CoreCompileInputs.cache
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.sourcelink.json
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.dll
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\refint\BankAPI.dll
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.pdb
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\BankAPI.genruntimeconfig.cache
+C:\Users\CANAVAR\Desktop\software\C#\UnitTest\BankAPI\obj\Debug\net9.0\ref\BankAPI.dll
